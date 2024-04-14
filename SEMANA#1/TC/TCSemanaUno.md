@@ -1,0 +1,1 @@
+# No hice la infografía porque yo le ayudé ese día, pero hice mis respectivas investigaciones

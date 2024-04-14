@@ -1,0 +1,15 @@
+C:\Users\User\Documents\GitHub\deberesObjetos\DeberesObjetos\SEMANA#1\TA\DOTNET Project\helloWorldwith.NET\bin\Debug\net8.0\helloWorldwith.NET.exe
+C:\Users\User\Documents\GitHub\deberesObjetos\DeberesObjetos\SEMANA#1\TA\DOTNET Project\helloWorldwith.NET\bin\Debug\net8.0\helloWorldwith.NET.deps.json
+C:\Users\User\Documents\GitHub\deberesObjetos\DeberesObjetos\SEMANA#1\TA\DOTNET Project\helloWorldwith.NET\bin\Debug\net8.0\helloWorldwith.NET.runtimeconfig.json
+C:\Users\User\Documents\GitHub\deberesObjetos\DeberesObjetos\SEMANA#1\TA\DOTNET Project\helloWorldwith.NET\bin\Debug\net8.0\helloWorldwith.NET.dll
+C:\Users\User\Documents\GitHub\deberesObjetos\DeberesObjetos\SEMANA#1\TA\DOTNET Project\helloWorldwith.NET\bin\Debug\net8.0\helloWorldwith.NET.pdb
+C:\Users\User\Documents\GitHub\deberesObjetos\DeberesObjetos\SEMANA#1\TA\DOTNET Project\helloWorldwith.NET\obj\Debug\net8.0\helloWorldwith.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\deberesObjetos\DeberesObjetos\SEMANA#1\TA\DOTNET Project\helloWorldwith.NET\obj\Debug\net8.0\helloWorldwith.NET.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\deberesObjetos\DeberesObjetos\SEMANA#1\TA\DOTNET Project\helloWorldwith.NET\obj\Debug\net8.0\helloWorldwith.NET.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\deberesObjetos\DeberesObjetos\SEMANA#1\TA\DOTNET Project\helloWorldwith.NET\obj\Debug\net8.0\helloWorldwith.NET.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\deberesObjetos\DeberesObjetos\SEMANA#1\TA\DOTNET Project\helloWorldwith.NET\obj\Debug\net8.0\helloWorldwith.NET.sourcelink.json
+C:\Users\User\Documents\GitHub\deberesObjetos\DeberesObjetos\SEMANA#1\TA\DOTNET Project\helloWorldwith.NET\obj\Debug\net8.0\helloWorldwith.NET.dll
+C:\Users\User\Documents\GitHub\deberesObjetos\DeberesObjetos\SEMANA#1\TA\DOTNET Project\helloWorldwith.NET\obj\Debug\net8.0\refint\helloWorldwith.NET.dll
+C:\Users\User\Documents\GitHub\deberesObjetos\DeberesObjetos\SEMANA#1\TA\DOTNET Project\helloWorldwith.NET\obj\Debug\net8.0\helloWorldwith.NET.pdb
+C:\Users\User\Documents\GitHub\deberesObjetos\DeberesObjetos\SEMANA#1\TA\DOTNET Project\helloWorldwith.NET\obj\Debug\net8.0\helloWorldwith.NET.genruntimeconfig.cache
+C:\Users\User\Documents\GitHub\deberesObjetos\DeberesObjetos\SEMANA#1\TA\DOTNET Project\helloWorldwith.NET\obj\Debug\net8.0\ref\helloWorldwith.NET.dll
